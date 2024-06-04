@@ -32,6 +32,6 @@ int main(){
     printf("\n\n<<<<<<<<<< 선택 정렬 수행 >>>>>>>>>>\n");
 
     SelectionSort(list, size);
-
+    
     getchar(); return 0;
 } 
