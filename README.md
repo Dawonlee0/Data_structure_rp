@@ -1,5 +1,5 @@
 # Data_structure_rp
-- 자료구조 수업 과제 제출 공간입니다.
+## 자료구조 수업 과제 제출 공간입니다.
 
 ## 2주차_과제(과제1~2, 과제5 하노이탑)
 https://github.com/Dawonlee0/Data_structure_rp/tree/main/2%EC%A3%BC%EC%B0%A8
